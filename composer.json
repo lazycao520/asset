@@ -1,0 +1,21 @@
+{
+    "name": "lazycao/asset",
+    "description": "copy from symfony asset component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lazycao",
+            "email": "lazycao@qq.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lazycao\\Asset": ""
+        }
+    }
+}
