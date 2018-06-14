@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193503dd-5072-4d5f-8658-813af96b3714" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-    </list>
+    <list default="true" id="193503dd-5072-4d5f-8658-813af96b3714" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -265,16 +262,15 @@
       <option name="presentableId" value="Default" />
       <updated>1528876794327</updated>
       <workItem from="1528876795508" duration="6628000" />
-      <workItem from="1528939432191" duration="813000" />
+      <workItem from="1528939432191" duration="1001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7441000" />
+    <option name="totallyTimeSpent" value="7629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="503" y="2" width="1407" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24053451" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
